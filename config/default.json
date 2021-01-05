@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "database": "mongodb+srv://anton:qwerty123@cluster0.0agnp.mongodb.net/shorten-link?retryWrites=true&w=majority",
+  "jwtSecret": "63e9kfY5h0PQ12VZ1q",
+  "baseURL": "http://localhost:5000"
+}
